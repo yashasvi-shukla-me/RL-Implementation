@@ -1,2 +1,8 @@
 .vscode
 rl/
+__pycache__
+__pycache__/
+.DS_Store
+*.pyc
+*.pkl
+*.log
